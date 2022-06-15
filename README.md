@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## IMPORTANNT
-To view the app first install dependencies by entering npm install in terminal
+To view the app first install dependencies by entering "npm install" in terminal
 
 ## Available Scripts
 
