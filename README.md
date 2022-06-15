@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## IMPORTANNT
 To view the app first install dependencies .
-STEP-1:Make sure you are in root folder(GRAMODAYA TASK)
-STEP 2:Install Dependencies by entering  "npm install" in terminal
-STEP 3:Run website on your pc by entering "npm start" in ierminal
+STEP-1:Make sure you are in root folder(GRAMODAYA TASK) \n
+STEP 2:Install Dependencies by entering  "npm install" in terminal \n
+STEP 3:Run website on your pc by entering "npm start" in ierminal \n
 
 ## Available Scripts
 
