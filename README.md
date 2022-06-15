@@ -1,16 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<div>
-  <video width="320" height="240" controls>
-  <source src="https://s8.gifyu.com/images/screen-capture-1623923b889bba1d7.gif" type="video/gif">
-
-  Your browser does not support the video tag.
-</video>
-</div>
 
 ## IMPORTANNT
-To view the app first install dependencies by entering "npm install" in terminal
+To view the app first install dependencies .
+STEP-1:Make sure you are in root folder(GRAMODAYA TASK)
+STEP 2:Install Dependencies by entering  "npm install" in terminal
+STEP 3:Run website on your pc by entering "npm start" in ierminal
 
 ## Available Scripts
 
