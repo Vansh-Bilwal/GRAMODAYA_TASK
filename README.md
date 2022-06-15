@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://github.com/Vansh-Bilwal/GRAMODAYA_TASK/blob/master/screen-capture-1.gif)
 
 ## IMPORTANNT
 To view the app first install dependencies. <br/>
