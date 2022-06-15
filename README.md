@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div>
+  <img src="https://s8.gifyu.com/images/screen-capture-1623923b889bba1d7.gif" height='200' width='200'/>
+</div>
 
 ## IMPORTANNT
 To view the app first install dependencies by entering "npm install" in terminal
