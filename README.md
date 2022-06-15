@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <div>
-  <img src="https://gifyu.com/image/SHWhv" alt='Website GIF'/>
+  <video width="320" height="240" controls>
+  <source src="https://s8.gifyu.com/images/screen-capture-1623923b889bba1d7.gif" type="video/gif">
+
+  Your browser does not support the video tag.
+</video>
 </div>
 
 ## IMPORTANNT
