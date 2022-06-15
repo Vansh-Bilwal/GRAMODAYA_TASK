@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <div>
-  <img src="https://s8.gifyu.com/images/screen-capture-1623923b889bba1d7.gif" alt='Website GIF'/>
+  <img src="https://gifyu.com/image/SHWhv" alt='Website GIF'/>
 </div>
 
 ## IMPORTANNT
